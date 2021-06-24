@@ -1,4 +1,3 @@
-//Lucas Miranda Leal e Matheus Lima Monteiro
 
 #include <iostream>
 #include <stdlib.h>
